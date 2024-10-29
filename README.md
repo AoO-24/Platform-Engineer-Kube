@@ -1,4 +1,4 @@
-# Platform-Engineer On Kubernetes
+# Platform-Engineering On Kubernetes cluster
 Build A Platform Engineering Environment On Kubernetes From Scratch
 1. Build a Kubernetes cluster as an underlying platform.
 2. Implement platform capabilities.
