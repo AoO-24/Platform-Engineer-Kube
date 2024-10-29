@@ -5,6 +5,10 @@ Build A Platform Engineering Environment On Kubernetes From Scratch
 2. Implement platform capabilities.
 3. Interact with the platform
 
+Using Kubernetes, we can have all methods in one place.
+With tools/methods like Operators, Kubevirt, Cluster API, and Crossplane, Kubernetes can be THEE underlying platform of choice.
+Think about it - you can do everything from creating VM's to deploying resources outside of Kubernetes and managing all of it in a declarative fashion.
+
 
 ![tt](https://github.com/AoO-24/Platform-Engineer-Kube/blob/main/40171730216847_.pic.jpg)
 
@@ -26,19 +30,6 @@ IaC tools like Terraform
 
 Deploying and managing VMs
 
-
-
-Although that seems like a lot, it’s the common “stack” for what’s used in many environments today.
-
-With that list alone, you’re looking at roughly 6-8 different tools and an entirely different platform just to run VMs if you also have containers to deploy. That’s multiple tools, a full virtualized environment (ESXi, Hyper-V, etc.), and a container solution.
-
-Using Kubernetes, you can have all methods in one place.
-
-
-With tools/methods like Operators, Kubevirt, Cluster API, and Crossplane, Kubernetes can be THEE underlying platform of choice.
-
-
-Think about it - you can do everything from creating VM's to deploying resources outside of Kubernetes and managing all of it in a declarative fashion.
 
 
 In this 3-part course, you will learn about:
